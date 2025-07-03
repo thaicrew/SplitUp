@@ -1,2 +1,2 @@
 # SplitUp
-SplitUp é uma solução eficiente Android para dividir contas em bares, restaurantes e eventos, permitindo comandas personalizadas, cálculos automáticos e controle offline, sem necessidade de login. Ideal para garantir transparência e praticidade na gestão de despesas compartilhadas.
+O app é uma solução prática para dividir contas de bares, restaurantes e eventos entre amigos, permitindo criar comandas personalizadas, adicionar itens e escolher quem vai dividir cada consumo. Ele calcula automaticamente quanto cada pessoa deve pagar, registra quem já quitou sua parte e mantém um histórico detalhado das comandas, tudo de forma totalmente offline e sem necessidade de login, garantindo organização e transparência na hora de acertar os gastos do rolê.
